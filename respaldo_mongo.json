@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "692b478ece4757c75b13d5a8"
+  },
+  "name": "Laptop Gamer X1",
+  "price": 1500,
+  "stock": 8,
+  "specs": {
+    "ram": "32GB",
+    "cpu": "Intel i9",
+    "color": "Negro Mate"
+  },
+  "createdAt": {
+    "$date": "2025-11-29T19:20:46.314Z"
+  },
+  "__v": 0
+}]
